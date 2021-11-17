@@ -6,7 +6,7 @@ Hi, imagine this is a fancy well articulated 10-line paragraph that you've skimm
 
 ## What?
 
-Reverse engineering (noun) is the copying of another company's product after examining it carefully to find out how it is made; except that's some bull that you find when googling. You need to forget everything you think you might possibly know about anything in your life, clear your head.
+Reverse engineering (noun) is the copying of another company's product after examining it carefully to find out how it is made; except that's some bullshit that you find when googling. You need to forget everything you think you might possibly know about anything in your life, clear your head.
 
 Reverse engineering (noun-really) is the act of understanding really-low-level code; mostly by using tools to convert it back to human-readable code. 
 
