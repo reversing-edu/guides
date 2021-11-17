@@ -20,7 +20,7 @@ Apart from the fact that you can make more money than all of your family members
 
 **Here's a real-life story:**
 
-Sfeenix (alias) works in a tech company that has many modules; web services, applications, programs... you get the idea) that are integrated together. His job as a developer is to maintain one and only one of these modules which means has no access to the source code of anything other than the module his team is assigned to work on. However; in order to run his module he needs to have the other modules up and running because they all rely on each other.
+Sfeenix (alias) works in a tech company that has many modules; web services, applications, programs (you get the idea) that are integrated together. His job as a developer is to maintain one and only one of these modules which means has no access to the source code of anything other than the module his team is assigned to work on. However; in order to run his module he needs to have the other modules up and running because they all rely on each other.
 
 Sfeenix only has the executable files (think the .exe file that you double-click to run) of these other modules and he just runs them before compiling & running his source code. Everything seems to work fine but there's something that's not working in his own module. After deep and thorough investigations he finds out there's something wrong with one of the modules (again, .exe file) that he ran but he cannot figure out what exactly. Typically, Sfeenix will have to get back to the team that is responsible for this (allegedly) faulty module and figure out exactly what, where and why is there something wrong with his life; which will probably take a lot of effort & even more time.
 
