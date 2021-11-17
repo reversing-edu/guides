@@ -24,7 +24,7 @@ Sfeenix (alias) works in a tech company that has many modules; web services, app
 
 Sfeenix only has the executable files (think the .exe file that you double-click to run) of these other modules and he just runs them before compiling & running his source code. Everything seems to work fine but there's something that's not working in his own module. After deep and thorough investigations he finds out there's something wrong with one of the modules (again, .exe file) that he ran but he cannot figure out what exactly. Typically, Sfeenix will have to get back to the team that is responsible for this (allegedly) faulty module and figure out exactly what, where and why is there something wrong with his life; which will probably take a lot of effort & even more time.
 
-Luckly, Rawr (another alias) is an OG reverser that can save Sfeenix from all the laughter and humiliation coming from the other team because he hasn't properly followed the installation guide for the module he obtained from them. Rawr reverses the faulty module and finds out that it requires to be executed as an administrator instead of blindly double clicking it; also there is a folder that Sfeenix deleted because it was empty but is still required by the module at some point during runtime.
+Luckily, Rawr (another alias) is an OG reverser that can save Sfeenix from all the laughter and humiliation coming from the other team because he hasn't properly followed the installation guide for the module he obtained from them. Rawr reverses the faulty module and finds out that it requires to be executed as an administrator instead of blindly double clicking it; also there is a folder that Sfeenix deleted because it was empty but is still required by the module at some point during runtime.
 
 
 
